@@ -1,0 +1,16 @@
+{
+  "name": "nobleTest",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Adrian Bautista (https://www.adrianbautista.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-5",
+    "osc": "^2.3.1"
+  }
+}
